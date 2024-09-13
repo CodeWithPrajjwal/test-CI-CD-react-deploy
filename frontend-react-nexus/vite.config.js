@@ -6,3 +6,4 @@ export default defineConfig({
   base: '/test-CI-CD-react-deploy',
   plugins: [react()],
 })
+ 
