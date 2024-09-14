@@ -22,5 +22,5 @@ jobs:
         uses: npm run deploy
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
+          branch: main
           folder: dist
